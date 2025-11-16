@@ -1,4 +1,4 @@
-# C_Projects
+# C++_Projects
 C++Programming Game &amp; Projects
 ## Daily Expense Tracker
 <img width="392" height="402" alt="image" src="https://github.com/user-attachments/assets/3f2d0660-d40e-4b0d-be45-85d88d64133d" />
